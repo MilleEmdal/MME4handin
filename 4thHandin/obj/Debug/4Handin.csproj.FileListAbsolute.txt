@@ -1,0 +1,2 @@
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4Handin.csprojAssemblyReference.cache
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4Handin.csproj.CoreCompileInputs.cache

@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_4thHandin.SiteMaster" %>
+<!DOCTYPE html>
+<html lang="en">
+    <head runat="server">
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title><%: SiteTitle() %> - <%: Page.Title %></title>
+
+        <asp:PlaceHolder runat="server">
+            <%: Scripts.Render("~/bundles/modernizr") %>
+        </asp:PlaceHolder>
+
+        <webopt:bundlereference runat="server" path="~/Content/css" />
+        <webopt:bundlereference runat="server" path="~/Content/m/css" />
+        
+   
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    
+    </head>
+    <body>
+        <form runat="server">
+            <asp:ScriptManager runat="server">
+                <Scripts>
+                    <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                    <%--Framework Scripts--%>
+                    <asp:ScriptReference Name="MsAjaxBundle" />
+                    <asp:ScriptReference Name="jquery" />
+                    <asp:ScriptReference Name="bootstrap" />
+                    <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                    <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                    <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                    <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                    <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                    <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                    <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                    <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                    <asp:ScriptReference Name="WebFormsBundle" />
+                    <%--Site Scripts--%>
+                </Scripts>
+            </asp:ScriptManager>
+
+            <div class="navbar navbar-inverse navbar-fixed-top navbar-white">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle burger-blue" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar "></span>
+                            <span class="icon-bar "></span>
+                            <span class="icon-bar "></span>
+                        </button>
+                        <a class="navbar-brand mobile-hide" runat="server" href="~/">
+                            <img src="/img/mtube.png" alt="Mtube" height="50" style="margin-top: -15px;" /></a>
+                         <div class="mobile-show">
+                            <div style="margin-top: 8px; margin-left: 15px; float: left;">
+                               <asp:TextBox ID="TextBoxSearch" runat="server" CssClass="searchtxt form-control top-search-input" TextMode="Search"></asp:TextBox>
+                            </div>
+                            <div style="margin-top: 8px; margin-left: 0px; float: left;">
+                                <asp:Button ID="ButtonSearch" runat="server" Text="Search" OnClick="ButtonSearch_Click" CssClass="buttonsearch btn btn-primary-c btn-outline-secondary top-search-button" />
+                           </div>
+                        </div>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a runat="server" href="~/">Home</a></li>
+                            <li><a runat="server" href="~/Browse">Browse Genres</a></li>
+                        </ul>
+                        <div class="mobile-hide">
+                            <div style="margin-top: 8px; margin-left: 0px; float: right; ">
+                                <asp:Button ID="ButtonSearch2" runat="server" Text="Search" OnClick="ButtonSearch2_Click" CssClass="buttonsearch btn btn-primary-c btn-outline-secondary top-search-button" />
+                            </div>
+                            <div style="margin-top: 8px; float: right;">
+                                <asp:TextBox ID="TextBoxSearch2" runat="server" CssClass="searchtxt form-control top-search-input"></asp:TextBox>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container body-content">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+                <hr />
+                <footer >
+                    <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+                        <p style="text-align:center" alt="Made by group 42 & 69 - collectively represented by their combined value of 111 expressed in roman numerals - CXI" >
+                            <asp:Label ID="LabelJoke" runat="server" Text="Label"></asp:Label> - <asp:Label ID="DevLabel" runat="server" Text='CXI'></asp:Label>
+                        </p>
+                </footer>
+            </div>
+        </form>
+        <script>
+
+        $( document ).ready(function() {
+            // ===== enter key search ==== 
+        $( ".searchtxt" ).keydown(function( event ) {
+            if (event.which == 13) {
+                event.preventDefault();                
+                window.location.replace("/search/?queryName="+ $( this ).val());
+                }
+            });
+        });
+ 
+        // ===== Scroll to Top ==== 
+        $(window).scroll(function () {
+            if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+                $('#return-to-top').fadeIn(200);    // Fade in the arrow
+            } else {
+                $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+            }
+        });
+        $('#return-to-top').click(function () {      // When arrow is clicked
+            $('body,html').animate({
+                scrollTop: 0                       // Scroll to top of body
+            }, 500);
+        });
+
+        </script>
+    </body>
+</html>

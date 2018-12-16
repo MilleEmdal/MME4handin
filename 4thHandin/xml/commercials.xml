@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<commercials xmlns="http://my.company.com">
+  <commercial company="Yensid Tlaw" founded="1923">
+    <board>
+      <chairman>Jack</chairman>
+      <members>
+        <member>Jill</member>
+        <member>James</member>
+      </members>
+    </board>
+    <director>June</director>
+    <webpage>www.myfantasy.com</webpage>
+    <noofemployees>777</noofemployees>
+    <shareprice>
+      <date>22.11.2018</date>
+      <gbpound>43</gbpound>
+    </shareprice>
+    <logo>logo1.jpg</logo>
+    <address>
+      <streetandno>Yeti Street 48</streetandno>
+      <town>Downtown</town>
+      <country>Farawayland</country>
+    </address>
+    <telephone>(111) 22222222</telephone>
+    <viewcount>0</viewcount>
+  </commercial>
+
+  <commercial company="Tinycomp">
+    <owner>Hugo</owner>
+    <webpage>www.myhugo.com</webpage>
+    <ourlogo>logo2.jpg</ourlogo>
+    <address>Norgaardsvej 30, 2800 lyngby</address>
+    <telephones>
+      <tekephone type="Mobile">33333333</tekephone>
+      <telephone type="Landline">44444444</telephone>
+    </telephones>
+    <companycar>Jaguar E</companycar>
+    <viewcount>0</viewcount>
+  </commercial>
+
+  <commercial company="Cartoons">
+    <directors>
+      <chiefdirector>Rose</chiefdirector>
+      <assistentdirector>Robert</assistentdirector>
+    </directors>
+    <webpage>www.lotsofcartoons.com</webpage>
+    <address>
+      <streetandno>Champs Elysees</streetandno>
+      <town>Holte, Denmark</town>
+    </address>
+    <telephone>55+ 66666666</telephone>
+    <logo>logo3.jpg</logo>
+    <viewcount>0</viewcount>
+  </commercial>
+
+  <commercial company="Web Developers">
+    <directors>
+      <director>TOR</director>
+      <director>TUJE</director>
+      <director>JHI</director>
+      <director>MORO</director>
+    </directors>
+    <secretary>KLU</secretary>
+    <webpage>www.superstudents.com</webpage>
+    <noofemployees>29</noofemployees>
+    <logo>logo4.jpg</logo>
+    <ratings>
+      <rating type="skills">Very good</rating>
+      <rating type="hard-working">Good</rating>
+      <rating type="kindness">Excellent</rating>
+      <rating type="attendance">Somewhat poor</rating>
+    </ratings>
+    <viewcount>0</viewcount>
+  </commercial>
+</commercials>

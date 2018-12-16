@@ -1,0 +1,639 @@
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\4thHandin.dll.config
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\4thHandin.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\4thHandin.pdb
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csc.exe
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csc.rsp
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csi.exe
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\csi.rsp
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\vbc.exe
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\WebGrease.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Stanci\4th project\repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Stanci\4th project\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+D:\Stanci\4th project\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+D:\Stanci\4th project\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+D:\Stanci\4th project\repos\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+D:\Stanci\4th project\repos\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\Mihnea\Desktop\Assignment 4\GitHub Code\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\4thHandin.dll.config
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\4thHandin.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\4thHandin.pdb
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csc.exe
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csc.rsp
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csi.exe
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\csi.rsp
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\vbc.exe
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\WebGrease.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\jamni\Source\Repos\4thHandinNew\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lisbet\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian  Ruff\Source\Repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\Andreas2018\Documents\GitHub\4thHandin\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\jamni\source\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\jamni\source\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\jamni\source\repos\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jamni\source\repos\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamni\source\repos\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.dll.config
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\4thHandin.pdb
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.exe
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csc.rsp
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.exe
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\csi.rsp
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.exe
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\WebGrease.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\Sebastian  Ruff\Documents\GitHub\4thHandin\4thHandin\obj\Debug\4thHandin.pdb
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\4thHandin.dll.config
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\4thHandin.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\4thHandin.pdb
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csc.exe
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csc.exe.config
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csc.rsp
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csi.exe
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csi.exe.config
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\csi.rsp
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.AppContext.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Console.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\vbc.exe
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\vbc.exe.config
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\vbc.rsp
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Antlr3.Runtime.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Newtonsoft.Json.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\System.Web.Optimization.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\WebGrease.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\System.Web.Optimization.xml
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Newtonsoft.Json.xml
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Antlr3.Runtime.pdb
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4thHandin.csprojAssemblyReference.cache
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4thHandin.csproj.CoreCompileInputs.cache
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4thHandin.csproj.CopyComplete
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4thHandin.dll
+C:\Users\Mille Emdal\Downloads\4thHandin-master (1)\4thHandin-master\4thHandin\obj\Debug\4thHandin.pdb
